@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>
+        <img height="300px" src="images/DollarBillFront.jpg" alt="Dollar Bill Front"/>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
